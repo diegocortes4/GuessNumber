@@ -28,3 +28,7 @@ while guess != random_number:
             print("Correct! You guessed the number in", guess_count, "attempts.")
     else:
         print("Invalid input. Please enter a valid number between 1 and 100.")
+
+# End of game message
+print("\nCongratulations on finding the number!")
+print("Thank you for playing!")
